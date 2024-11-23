@@ -1,4 +1,7 @@
 # HandWritten-Character-Recognition-ML-Model-Using-CNN
 
-![Prediction 1](https://github.com/user-attachments/assets/afb13a2a-d88f-4362-9e42-28787eb3cdec)
-![Prediction 2](https://github.com/user-attachments/assets/17b6ea4b-7427-47e5-9bca-ff07bec111e4)
+![image](https://github.com/user-attachments/assets/26cf1057-e256-4659-8b6f-52e612349ec2)
+![image](https://github.com/user-attachments/assets/75ddeec0-3a8e-4d16-8aa9-fdc9fc17473d)
+
+
+
