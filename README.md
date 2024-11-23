@@ -1,5 +1,5 @@
 # HandWritten-Character-Recognition-ML-Model-Using-CNN
-
+Dataset Link:-https://data-flair.s3.ap-south-1.amazonaws.com/Data-Science-Code/handwritten-character-recognition-code.zip
 
 ![image](https://github.com/user-attachments/assets/26cf1057-e256-4659-8b6f-52e612349ec2)
 
